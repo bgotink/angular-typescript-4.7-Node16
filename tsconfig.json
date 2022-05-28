@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": "",
+    "importHelpers": true,
+
+    "module": "Node16",
+    "moduleResolution": "Node16",
+  }
+}
